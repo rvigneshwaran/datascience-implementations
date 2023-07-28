@@ -25,3 +25,14 @@ SciPy is a powerful library in Python used for scientific and technical computin
 8. **Special Functions (scipy.special)**: A collection of special mathematical functions like Bessel functions, Gamma functions, etc.
 9. **Spatial Data Structures and Algorithms (scipy.spatial)**: Advanced algorithms for spatial data, nearest neighbor search, and clustering.
 10. **Optimization with Constraints (scipy.optimize)**: Constrained optimization using Lagrange multipliers and other techniques.
+
+## Getting Started:
+To get started with SciPy, you need to have Python installed on your system. You can install SciPy along with NumPy using pip:
+
+```bash
+pip install scipy
+```
+
+Once installed, you can import SciPy modules in your Python scripts and start using the various functions and tools provided by the library.
+
+For more in-depth explanations and examples for each concept, please refer to the official SciPy documentation: [https://docs.scipy.org/doc/scipy/reference/](https://docs.scipy.org/doc/scipy/reference/)
