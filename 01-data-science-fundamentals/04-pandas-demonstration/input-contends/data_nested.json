@@ -1,0 +1,4 @@
+{"name":["John","Alice"],"age":[30,25],"address":[{"city":"New York","zipcode":"10001"},{"city":"Los Angeles","zipcode":"90001"}],"0":null}
+{"name":null,"age":null,"address":null,"0":["John","Alice"]}
+{"name":null,"age":null,"address":null,"0":[30,25]}
+{"name":null,"age":null,"address":null,"0":[{"city":"New York","zipcode":"10001"},{"city":"Los Angeles","zipcode":"90001"}]}
